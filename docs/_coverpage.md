@@ -1,8 +1,14 @@
-![logo](src/_media/SUSTech_University_Logo.png)
+<p align="center">
+  <a href="https://sustech-application.github.io/2019-Fall">
+    <img alt="docsify" src="src/_media/SUSTech_University_Logo.png" height="200">
+  </a>
+</p>
 
-# 南方科技大学飞跃手册 <small>2019-Fall</small>
+> <middle>南方科技大学飞跃手册</middle> <small>2019-Fall</small>
 
-> SUSTech Application Wiki <small>2019-Fall</small>
+<!-- > SUSTech Application Wiki <small>2019-Fall</small> -->
+
+- SUSTech Application Wiki <small>2019-Fall</small>
 
 - All rights Reserved.
 
