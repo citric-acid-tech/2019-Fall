@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sustech-application.github.io/2019-Fall">
-    <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png">
+    <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png" height="150">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <a href="https://gitter.im/SUSTech-Application/2019-Fall?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="gitter" src="https://img.shields.io/gitter/room/SUSTech-Application/2019-Fall.svg"></a>
 </p>
 
-## Contributing
+### Contributing
 
 - Fork it!
 - Create your feature branch: `git checkout -b my-new-feature`
