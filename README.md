@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <!-- <a href="https://travis-ci.org/SUSTech-Application/2019-Fall"><img alt="Travis Status" src="https://img.shields.io/travis/SUSTech-Application/2019-Fall/master.svg"></a> -->
+  <a href="https://travis-ci.org/SUSTech-Application/2019-Fall"><img alt="Travis Status" src="https://img.shields.io/travis/SUSTech-Application/2019-Fall/master.svg"></a>
   <a href="https://www.npmjs.com/package/docsify"><img alt="npm" src="https://img.shields.io/npm/v/docsify.svg"></a>
   <a href="https://gitter.im/SUSTech-Application/2019-Fall?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="gitter" src="https://img.shields.io/gitter/room/SUSTech-Application/2019-Fall.svg"></a>
 </p>
