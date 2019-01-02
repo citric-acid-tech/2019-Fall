@@ -10,7 +10,7 @@
 
 - SUSTech Application Wiki <small>2019-Fall</small>
 
-- All rights Reserved.
+- All Rights Reserved.
 
 [GitHub](https://https://github.com/SUSTech-Application/2019-Fall)
 [Get Started](#南方科技大学飞跃手册-2019-Fall)
