@@ -1,4 +1,4 @@
-![logo](_media/SUSTech_University_Logo.png)
+![logo](src/_media/SUSTech_University_Logo.png)
 
 # 南方科技大学飞跃手册 <small>2019-Fall</small>
 
