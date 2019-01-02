@@ -1,12 +1,10 @@
-![logo](_media/icon.svg)
+![logo](_media/SUSTech_University_Logo.png)
 
-# docsify <small>4.8.6</small>
+# 南方科技大学飞跃手册 <small>2019-Fall</small>
 
-> A magical documentation site generator.
+> SUSTech Application Wiki <small>2019-Fall</small>
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- All rights Reserved.
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[GitHub](https://https://github.com/SUSTech-Application/2019-Fall)
+[Get Started](#南方科技大学飞跃手册-2019-Fall)
