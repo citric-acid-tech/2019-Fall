@@ -12,7 +12,7 @@
 
 - All Rights Reserved.
 
-[GitHub](https://https://github.com/SUSTech-Application/2019-Fall)
+[GitHub](https://github.com/SUSTech-Application/2019-Fall)
 [Get Started](#南方科技大学飞跃手册-2019-Fall)
 
 ![](src/_media/bg.jpeg)
