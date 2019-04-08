@@ -6,7 +6,7 @@
 
 #### Master Programs:
 
-To be continued.
+  - [15级-姜天恺 CMU](个人申请总结/计算机科学与工程系/[US]-15-姜天恺.md)
 
 ##### 联培：
 
